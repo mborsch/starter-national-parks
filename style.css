@@ -29,6 +29,17 @@ main {
   max-width: 1400px;
 }
 
+.header-statement {
+  color: #ffffff;
+  font-size: 1.2rem;
+}
+
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
+
 .park-display {
   box-shadow: 0 0 3px 2px rgba(115, 66, 48, 0.2);
   border-radius: 6px;
@@ -86,6 +97,14 @@ main {
   color: #184031;
   font-size: 0.9rem;
   padding: 4px;
+}
+
+.high-rating {
+  color: #3ba17c;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 .rate-button {
